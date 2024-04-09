@@ -15,7 +15,7 @@ e aprender um pouco mais.
 ## Aqui o link para o projeto
 
 ``` 
-
+https://rodrigopimentellima.github.io/portifolio-simplificado/
 ```
 ### Sobre o projeto:
 
