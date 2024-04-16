@@ -8,14 +8,18 @@ e aprender um pouco mais.
 
 
 ## Tecnologias utilizadas
-- HTML
-- CSS
-- JS
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 
 ## Aqui o link para o projeto
 
 ``` 
-https://rodrigopimentellima.github.io/portfolio-simplificado/
+https://rodrigopimentellima.github.io/portifolio-simplificado/
 ```
 ### Sobre o projeto:
 
